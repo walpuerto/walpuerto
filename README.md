@@ -7,4 +7,4 @@
 - ☕ Java
 - 🐮 C
 
-My main GitHub profile: [click me!](https://github.com/noob-undone)
+My old GitHub profile: [click me!](https://github.com/noob-undone)
