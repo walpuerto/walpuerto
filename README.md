@@ -7,4 +7,9 @@
 - ☕ Java
 - 🐮 C
 
+## 🛠️ IDEs:
+- 🐝 MIT App Inventor 
+- ⏹️ Roblox Studio
+- 🤖 Android Studio
+
 My old GitHub profile: [click me!](https://github.com/noob-undone)
