@@ -7,7 +7,7 @@ Website with [turmeric-soup](https://walpuerto.github.io/turmeric-soup/). 🍲�
 - 🌙 Lua
 - 🌐 HTML/CSS/JavaScript
 - ☕ Java
-- 🐮 C
+- 🐮 C/C++
 
 ## 🛠️ IDEs:
 - 🐝 MIT App Inventor 
