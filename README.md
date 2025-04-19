@@ -13,5 +13,6 @@ Website with [turmeric-soup](https://walpuerto.github.io/turmeric-soup/). 🍲�
 - 🐝 MIT App Inventor 
 - ⏹️ Roblox Studio
 - 🤖 Android Studio
+- 💙 VScodie 
 
 My old GitHub profile: [click me!](https://github.com/noob-undone)
