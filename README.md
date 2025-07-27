@@ -3,16 +3,17 @@
 Website with [turmeric-soup](https://walpuerto.github.io/turmeric-soup/). 🍲✨
 
 ## 🖥️ Programming Languages:
-- 🐍 Python 
+- 🐍 Python
 - 🌙 Lua
+- 🐮 C/C++
 - 🌐 HTML/CSS/JavaScript
 - ☕ Java
-- 🐮 C/C++
 
 ## 🛠️ IDEs:
+- 🔮 Visual Studio
 - 🐝 MIT App Inventor 
 - ⏹️ Roblox Studio
 - 🤖 Android Studio
-- 💙 VScodie~, hehe 
+- 💙 VScodie~, hehe
 
 My old GitHub profile: [click me!](https://github.com/noob-undone)
