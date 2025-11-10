@@ -4,7 +4,7 @@ Website with [turmeric-soup](https://walpuerto.github.io/turmeric-soup/). 🍲�
 
 ## 🖥️ Programming Languages:
 - 🐍 Python
-- 🌙 Lua
+- 🌙 Luau
 - 🐮 C/C++
 - 🌐 HTML/CSS/JavaScript
 - ☕ Java
