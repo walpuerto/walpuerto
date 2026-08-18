@@ -3,12 +3,14 @@
 Website with [turmeric-soup](https://walpuerto.github.io/turmeric-soup/). 🍲✨
 
 ## 🖥️ Programming Languages:
+### Major Experience:
 - 🐍 Python
 - 🌙 Luau
-- 🐮 C/C++
-- 🌐 HTML/CSS/JavaScript
-- ☕ Java
 - 🧠 R
+### Minor Experience:
+- 🐮 C/C++
+- ☕ Java
+- 🌐 HTML/CSS/JavaScript
 
 ## 🛠️ IDEs:
 - 🔮 Visual Studio
